@@ -106,9 +106,3 @@ From the analysis, several interesting observations emerged:
 This project provides a foundational understanding of how various car specifications impact fuel efficiency and performance. The insights gained here could guide decisions in automotive design, marketing, and consumer education.
 
 ---
-
-Let me know if you'd like to:
-
-* Customize this for a specific audience (e.g., data science recruiters, academic, automotive industry),
-* Add sample visualizations,
-* Convert it to HTML for GitHub Pages.
